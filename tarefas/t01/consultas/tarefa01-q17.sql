@@ -1,0 +1,1 @@
+-- 17-Faça uma consulta que selecione o código  e descrição do projeto cujo gerente do departamento que ele faz parte ganhe mais que os outros gerentes de departamento.

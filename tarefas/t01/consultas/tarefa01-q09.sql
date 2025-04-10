@@ -1,0 +1,3 @@
+-- 9-Faça uma consulta que selecione o nome dos funcionários responsáveis por projetos,
+-- o número de projetos que este funcionário é responsável e seus salários,
+-- mas apenas os funcionários que ganhem mais que o gerente do seu departamento. Crie e use views na consulta.

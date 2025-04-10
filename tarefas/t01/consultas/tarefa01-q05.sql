@@ -1,0 +1,4 @@
+-- 5-Responda as perguntas:
+-- Explique os problemas de termos valores nulos nos dados.
+-- Explique o funcionamento do Right e do Left Join.
+-- Explique o funcionamento do Full Outer Join e como pode ser feito no MySQL ou MariaDB que não tem mais o comando Full.
