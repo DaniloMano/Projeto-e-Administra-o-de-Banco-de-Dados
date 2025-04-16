@@ -2,4 +2,4 @@
 ## matrícula: 20230030895
 ## nome: Danilo Gabriel de Medeiros Brito
 ## email: danilo.brito.715@ufrn.edu.br
-### [tarefa01](.\tarefas\t01)
+### [tarefa01](Projeto-e-Administra-o-de-Banco-de-Dados\tarefas)
